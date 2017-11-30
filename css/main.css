@@ -22,3 +22,7 @@ a {
   border-radius: 8px;
   font-size: 1.125rem;
 }
+
+a .btn {
+  background-color: #333;
+}
